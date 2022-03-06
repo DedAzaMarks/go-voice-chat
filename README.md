@@ -6,5 +6,5 @@ Dependencies
 to run use  
 ```
 go mod tidy  
-go run ./client/...
+go run ./client/... -addr <ip>:8080
 ```
